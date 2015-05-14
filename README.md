@@ -1,2 +1,2 @@
 # fredrikhl.github.io
-GitHub Pages repo
+This is my hitherto unused GitHub Pages repo.
